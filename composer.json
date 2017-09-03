@@ -1,6 +1,6 @@
 {
-    "name": "laravel-notification-channels/onesignal",
-    "description": "OneSignal Notifications driver",
+    "name": "ianrothmann/onesignal",
+    "description": "OneSignal Notifications driver - This is a temporary fork for 5.5 support",
     "homepage": "https://github.com/laravel-notification-channels/onesignal",
     "license": "MIT",
     "authors": [
